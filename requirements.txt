@@ -2,3 +2,10 @@ flask
 google-generativeai
 python-dotenv
 reportlab
+langgraph
+langchain-core
+xgboost
+scikit-learn
+numpy
+requests
+typing-extensions
